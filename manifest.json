@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Redirect",
+  "version": "1.0",
+  "description": "Redirige un mot spécifique vers une URL",
+  "permissions": ["storage", "omnibox"],
+  "omnibox": { "keyword": "rd" },
+  "options_page": "options.html",
+  "background": {
+    "service_worker": "background.js"
+  }
+}
+
