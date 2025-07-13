@@ -8,9 +8,9 @@ chrome.omnibox.onInputEntered.addListener((text) => {
 });
 
 chrome.runtime.onInstalled.addListener(() => {
+  const defaultSuggestion = chrome.i18n.getMessage('defaultSuggestion');
   chrome.omnibox.setDefaultSuggestion({
-    description: 'Tapez votre mot pour être redirigé vers l\'URL'
+    description: defaultSuggestion
   });
 });
-
 

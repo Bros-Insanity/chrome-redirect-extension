@@ -1,0 +1,27 @@
+{
+  "title": {
+    "message": "Configure Redirections",
+    "description": "Title of the extension"
+  },
+  "wordPlaceholder": {
+    "message": "Word",
+    "description": "Placeholder for the word input field"
+  },
+  "urlPlaceholder": {
+    "message": "URL",
+    "description": "Placeholder for the URL input field"
+  },
+  "addButton": {
+    "message": "Add",
+    "description": "Label for the add button"
+  },
+  "deleteButton": {
+    "message": "Delete",
+    "description": "Label for the delete button"
+  },
+  "defaultSuggestion": {
+    "message": "Type a word to be redirected to the URL",
+    "description": "Default suggestion text for the omnibox"
+  }
+}
+

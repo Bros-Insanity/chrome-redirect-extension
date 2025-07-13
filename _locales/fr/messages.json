@@ -1,0 +1,27 @@
+{
+  "title": {
+    "message": "Configurer les redirections",
+    "description": "Titre de l'extension"
+  },
+  "wordPlaceholder": {
+    "message": "Mot",
+    "description": "Placeholder pour le champ de saisie du mot"
+  },
+  "urlPlaceholder": {
+    "message": "URL",
+    "description": "Placeholder pour le champ de saisie de l'URL"
+  },
+  "addButton": {
+    "message": "Ajouter",
+    "description": "Libellé pour le bouton ajouter"
+  },
+  "deleteButton": {
+    "message": "Supprimer",
+    "description": "Libellé pour le bouton supprimer"
+  },
+  "defaultSuggestion": {
+    "message": "Tapez votre mot pour être redirigé vers l'URL",
+    "description": "Texte de suggestion par défaut pour l'omnibox"
+  }
+}
+
